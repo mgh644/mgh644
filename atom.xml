@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mgh`s blogs</title>
+  
+  <subtitle>mgh`s blogs</subtitle>
+  <link href="https://mgh644.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mgh644.github.io/"/>
+  <updated>2023-04-21T12:59:13.510Z</updated>
+  <id>https://mgh644.github.io/</id>
+  
+  <author>
+    <name>mgh</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mysql</title>
+    <link href="https://mgh644.github.io/2023/04/21/mysql/"/>
+    <id>https://mgh644.github.io/2023/04/21/mysql/</id>
+    <published>2023-04-21T12:38:36.000Z</published>
+    <updated>2023-04-21T12:59:13.510Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;基础&quot;&gt;&lt;a href=&quot;#基础&quot; class=&quot;headerlink&quot; title=&quot;基础&quot;&gt;&lt;/a&gt;基础&lt;/h1&gt;&lt;h3 id=&quot;笛卡尔积-x2F-交叉连接&quot;&gt;&lt;a href=&quot;#笛卡尔积-x2F-交叉连接&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="数据库" scheme="https://mgh644.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="mysql" scheme="https://mgh644.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://mgh644.github.io/2023/04/20/hello-world/"/>
+    <id>https://mgh644.github.io/2023/04/20/hello-world/</id>
+    <published>2023-04-20T11:04:05.896Z</published>
+    <updated>2023-04-20T11:04:05.896Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
